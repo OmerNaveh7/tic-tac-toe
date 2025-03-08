@@ -23,7 +23,7 @@ The server uses the `checkWin` function to iterate over all possible win pattern
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
+    git clone https://github.com/OmerNaveh7/tic-tac-toe.git
     cd tic-tac-toe
     ```
 
